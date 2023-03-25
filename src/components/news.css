@@ -1,0 +1,12 @@
+.section {
+  border: solid 3px;
+  border-radius: 30px;
+  color: aliceblue;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 50rem;
+  /* margin-top: 120px; */
+  padding: 20px;
+  text-align: center;
+}

@@ -1,0 +1,50 @@
+.heading{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.headings{
+    color: aliceblue;
+    text-align: center;
+}
+
+.one-i{
+   color: aliceblue;
+   padding: 100px;
+}
+
+.one-i>h5{
+    color: rgb(157, 234, 208);
+}
+
+.one-i>p{
+    line-height: 28px;
+}
+
+.one-ii>img{
+
+    width: 700px;
+    height: 650px;
+}
+.two-i>img{
+    padding: 40px;
+    width: 700px;
+    height: 620px;
+}
+.two-ii{
+    color: aliceblue;
+}
+
+.two-ii>p{
+    line-height: 28px;
+
+}
+.two-ii>h5{
+    color: rgb(157, 234, 208);
+    padding-top: 50px;
+}
+
+@media only screen and (max-width: 576px){
+    
+}

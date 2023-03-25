@@ -1,0 +1,91 @@
+* {
+  /* background-color:#14213d; */
+}
+
+.tag {
+  color: aliceblue;
+  background-color: #14213d;
+  padding: 20px;
+  width: 100%;
+  height: 800px;
+  /* margin-top: 200rem; */
+  /* margin-bottom: 50rem; */
+}
+
+.lines {
+  padding-bottom: 100px;
+}
+
+.photo {
+  height: 30.375rem;
+  width: 43rem;
+  padding-top: -170rem;
+  border-radius: 5px;
+}
+
+* > .Products {
+  border: 2px solid white;
+  height: 4rem;
+  width: 80rem;
+  color: aliceblue;
+  /* margin-top: 0rem; */
+  position: relative;
+  /* bottom: 240px; */
+}
+
+.baap {
+  background-color: #14213d;
+  width: 100%;
+  margin-top: 0.2rem;
+}
+
+ .baap>h4 {
+  color: rgb(140, 142, 145);
+  text-align: center;
+  position: relative;
+  
+}
+.liti {
+  border-right: 2px solid bisque;
+  padding-right: 140px;
+}
+.Products > p {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.Products > p:hover {
+  cursor: pointer;
+  text-shadow: 1px 0px 2px white;
+}
+
+@media only screen and (max-width: 576px) {
+  .lines h1 {
+    /* font-size: 28px; */
+    text-align: center;
+  }
+
+  .photo {
+    width: 24rem;
+    height: 22rem;
+    padding: 10px;
+    padding-left: 30px;
+    padding-top: -900px;
+  }
+
+  .col-md-6 {
+    padding: 0;
+    margin-bottom: 30px;
+  }
+  .none {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 577px) and (max-width: 768px) {
+  .lines h1 {
+    font-size: 32px;
+    text-align: center;
+  }
+}

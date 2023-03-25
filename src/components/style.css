@@ -1,0 +1,17 @@
+.navbar
+{
+    background-color:#09152d;
+    padding: 100px;
+    width: 100%;
+    color: aliceblue;
+    
+    
+
+}
+.name navbar-brand{
+font-size: 100px;
+}
+
+ul{
+    list-style: none;
+}
